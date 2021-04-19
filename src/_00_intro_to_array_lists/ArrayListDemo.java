@@ -96,5 +96,7 @@ public class ArrayListDemo {
 		
 		//Clearing our list of all items
 		numbers.clear();
+		
+
 	}
 }
